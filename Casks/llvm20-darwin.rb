@@ -1,4 +1,4 @@
-cask 'neovim-nightly-m1' do
+cask 'llvm20-darwin' do
   version 20.1
   sha256 :no_check
 
